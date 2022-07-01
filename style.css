@@ -1,0 +1,18 @@
+:root{
+    --green:rgb(87, 227, 157);
+    --gold:rgb(214, 181, 47);
+    --brown:rgb(67, 58, 21);
+    --pink:rgb(227, 147, 56);
+}
+
+#welcome{
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--pink);
+}
+
+h1{
+    color:white;
+}
